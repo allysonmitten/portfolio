@@ -1,0 +1,50 @@
+/* Fonts */
+@font-face {
+    font-family: Standris;
+    src: url(Standaris.otf);
+}
+
+/* Navigation */
+.navigation {
+	float: right;
+	font-family: Standris;
+	font-size: 60px;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a {
+	color: #dcd8c8;
+}
+
+
+/* Index */
+.indexBackground {
+	background-color: #766D89;
+}
+
+/* About */
+.aboutBackground {
+	background-color: #333e54;
+}
+
+/* Skills */
+.skillsBackground {
+	background-color: #a26d8f;
+}
+
+/* Work */
+.workBackground {
+	background-color: #ab637d;
+}
+
+/* Awards */
+.awardsBackground {
+	background-color: #d2748b;
+}
+/* Contact */
+.contactBackground {
+	background-color: #b96a5d;
+}
